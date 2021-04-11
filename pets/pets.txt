@@ -9,3 +9,9 @@ dog
 4 years old
 50 kilo
 male
+
+Lord ->
+raccoon
+2 year old
+15 kilo
+male

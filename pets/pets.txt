@@ -3,3 +3,9 @@ cat
 9 months old
 4 kilo
 male
+
+Qotot ->
+dog
+4 years old
+50 kilo
+male

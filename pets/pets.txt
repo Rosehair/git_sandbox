@@ -10,6 +10,12 @@ dog
 50 kilo
 male
 
+Lord ->
+raccoon
+2 year old
+15 kilo
+male
+
 Markos ->
 dog
 5 years old

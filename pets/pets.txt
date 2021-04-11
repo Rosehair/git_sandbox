@@ -15,3 +15,9 @@ raccoon
 2 year old
 15 kilo
 male
+
+Markos ->
+dog
+5 years old
+55 kilo
+male
